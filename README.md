@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@zoroobeef" target="blank"><img src="https://img.shields.io/twitter/follow/@zoroobeef?logo=twitter&style=for-the-badge" alt="@zoroobeef" /></a> </p>
 
-- I'm interested in Data Science **Deploy ML models,Time series Analysis and Forecasting**
+- I'm interested in Data Science **Deploying ML models,Time series Analysis and Forecasting**
 
 - 🌱 I’m currently learning **MySQL to obtain excellent data querying skills.**
 
